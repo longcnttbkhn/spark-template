@@ -1,7 +1,7 @@
 # Spark template
 
 ## Author
-[Long Nguyen](longcnttbkhn.github.io)
+[Long Nguyen](https://longcnttbkhn.github.io)
 
 ## Requirement
 
