@@ -1,5 +1,8 @@
 # Spark template
 
+## Author
+[Long Nguyen](longcnttbkhn.github.io)
+
 ## Requirement
 
 - Scala 2.12.15
